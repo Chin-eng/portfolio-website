@@ -195,6 +195,12 @@ section {
     text-align: center;
 }
 
+.title-1 {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
 #socials-container {
     display: flex;
     justify-content: center;
@@ -258,12 +264,12 @@ section {
 
 /* About Section */
 
-#about {
+#about{
     position: relative;
 }
 
 .about-container {
-    gap: 2rem;
+    gap: 1rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
@@ -424,5 +430,5 @@ footer {
 
 footer p {
     text-align: center;
-    
+
 }
