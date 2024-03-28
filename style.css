@@ -436,7 +436,7 @@ div h4 {
 footer {
     height: 26vh;
     margin: 0 1rem;
-    margin-top: 10%;
+    /* margin-top: 10%; */
 }
 
 footer p {
